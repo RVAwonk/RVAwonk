@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... how to build a website.
 - 💞️ I’m looking to collaborate on ... research, making the internet a better place for decent people.
 - 📫 How to reach me ... on Twitter (@RVAwonk), Instagram (@rvawonk), Mastodon (@rvawonk@newsie.social), Substack (weaponizedspaces.substack.com), email (contact_rvawonk@protonmail.com)
-- ⚡ Fun fact: ... 
 
 <!---
 RVAwonk/RVAwonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
